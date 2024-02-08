@@ -1,0 +1,43 @@
+# Arquivos Executáveis
+*.exe
+
+# Arquivos Compactados
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.gz
+*.bz2
+*.xz
+*.jar
+
+# Outros arquivos e diretórios que você deseja ignorar
+# ...
+
+# Ignore arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Ignore logs e arquivos de saída
+*.log
+*.out
+
+# Ignore arquivos de configuração específicos para alguns editores/IDEs
+.vscode/
+.idea/
+
+# Ignore arquivos gerados automaticamente
+node_modules/
+dist/
+build/
+
+# Ignore arquivos de ambiente
+.env
+.env.local
+
+# Ignore arquivos de dependências
+package-lock.json
+yarn.lock
