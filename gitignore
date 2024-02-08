@@ -1,5 +1,7 @@
 # Arquivos Executáveis
 *.exe
+*.sh
+*.msi
 
 # Arquivos Compactados
 *.zip
@@ -12,6 +14,18 @@
 *.bz2
 *.xz
 *.jar
+
+# Arquivos Grandes
+*.csv
+*.xls
+*.xlsx
+*.doc
+*.docx
+
+# Arquivos de Código Fonte
+*.r
+*.py
+*.java
 
 # Outros arquivos e diretórios que você deseja ignorar
 # ...
